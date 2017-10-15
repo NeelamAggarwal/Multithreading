@@ -6,6 +6,9 @@ first thread should print even numbers in sequence
 second thread should print odd numbers in sequence
 from the given array. 
 
+Input:
+[1,3,2,4,5,7,6,9,10,11,12,13,0,3,7,8]
+
 To compile:
 neelagga@~$ gcc -o multithreading.o multithreading.c 
 
